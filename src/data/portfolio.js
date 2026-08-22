@@ -166,7 +166,7 @@ export const projects = [
     description:
       "A cross-platform news app with Redux, category-based browsing, and integration with the official Inshorts developer API.",
     link: "https://github.com/balki14101/inshorts-clone/releases/tag/v1.0",
-    linkLabel: "View on GitHub",
+    linkLabel: "View Release",
     status: "Shipped",
   },
   {
