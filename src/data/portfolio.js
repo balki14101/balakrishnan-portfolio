@@ -101,7 +101,8 @@ export const experience = [
         ],
       },
       {
-        title: "Native-to-Cross-Platform Migration — Silicon Valley-Based Client",
+        title:
+          "Native-to-Cross-Platform Migration — Silicon Valley-Based Client",
         points: [
           "Modernised a native Android/iOS application by migrating biometrics, push notifications, and chat functionality into a unified React Native codebase with platform-specific native modules.",
           "Reduced cross-platform inconsistencies by standardising the UI through reusable React Native components, resolving integration issues surfaced during migration.",
@@ -164,7 +165,7 @@ export const projects = [
     stack: ["React Native", "Redux"],
     description:
       "A cross-platform news app with Redux, category-based browsing, and integration with the official Inshorts developer API.",
-    link: "https://github.com/balki14101",
+    link: "https://github.com/balki14101/inshorts-clone/releases/tag/v1.0",
     linkLabel: "View on GitHub",
     status: "Shipped",
   },
@@ -173,7 +174,7 @@ export const projects = [
     stack: ["React Native", "React.js", "Node.js", "MongoDB"],
     description:
       "A multi-provider slot-booking marketplace with JWT role-based auth and atomic slot-locking to prevent double-booking. Backend fully built and tested (15+ endpoints); React.js and React Native clients in development.",
-    link: "https://github.com/balki14101",
+    link: "https://github.com/balki14101/quickserve",
     linkLabel: "View on GitHub",
     status: "In Progress",
   },
